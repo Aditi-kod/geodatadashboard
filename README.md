@@ -22,8 +22,8 @@ React-based dashboard to visualize spatial and tabular geo data.
 - Handles 5k+ rows using virtualization
 - Memoized filtering and sorting
 
-## Screenshots / Recording
-
+## Recording
+https://drive.google.com/file/d/15_KH-VdwxTKfx1mQgNMlccB7ma1mCxYH/view?usp=drive_link
 
 ## Time Spent
 ~7 hours
